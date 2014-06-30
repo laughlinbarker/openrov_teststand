@@ -1,3 +1,10 @@
+#####Thruster Test Stand code by Laughlin Barker - April 2014.
+#####
+#####MIT License
+#####
+#####Copyright (C) 2014 OpenROV Inc.
+
+
 #include <FreqMeasure.h>        //for measuring RPM
 #include <ServoTimer2.h>        //Uses #2 timer for servo PWM instead of #1 (whic is used by FreqMeasure)
 #include <SPI.h>
